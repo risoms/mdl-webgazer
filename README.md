@@ -1,4 +1,3 @@
-## gRT - Mood Disorders Lab Webgazer eyetracking task
 -------------------------------------------------------------------------------------------------
 
 <div class="row">
